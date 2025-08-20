@@ -22,3 +22,41 @@
 
 - Implementando escalabilidade
 - Automatizando o ambiente
+
+# Aula 06/08 
+
+- Regiões e AZs
+
+- Pilares de segurança
+
+- Princípio do privilégio mínimo
+
+- Server encryption
+
+- Autenticação x autorização
+
+# Aula 13/08
+
+- Determining permissions at the time of request
+
+- IAM policy document structure
+    - Version
+    - Statement
+    - Effect
+    - Principal
+    - Action
+    - Resource
+    - Condition
+
+# Aula 20/08
+
+- Amazon S3
+  - Benefits
+      - Durability
+      - Availability
+      - High Performance
+   
+- Good for:
+  - Spikes in demand
+  - Static site
+  - Financial analysis
