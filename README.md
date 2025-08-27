@@ -60,3 +60,11 @@
   - Spikes in demand
   - Static site
   - Financial analysis
+
+# Aula 27/08
+
+- revisão S3 e buckets
+- Escolhendo regioes
+  - proximidade, legislação local...
+ 
+- indo pro git  
