@@ -67,4 +67,14 @@
 - Escolhendo regioes
   - proximidade, legislação local...
  
-- indo pro git  
+- indo pro git
+
+# Aula 03/09
+
+- EC2
+  - Foco em processamento, S3 = arquivos "fixos", EC2 permite paginas dinamicas
+  - VMs, VPS
+  - 
+ 
+- Sandbox 
+- Servidor minecraft na EC2
