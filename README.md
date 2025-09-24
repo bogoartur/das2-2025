@@ -74,6 +74,24 @@
 - EC2
   - Foco em processamento, S3 = arquivos "fixos", EC2 permite paginas dinamicas
   - VMs, VPS
+ 
+# Aula 10/09
+
+- https://aws.amazon.com/pt/ec2/instance-types/
+
+- Instance store
+- Amazon EBS
+- Amazon Elastic File System (EFS)
+
+- Subindo EC2 Windows
+
+# Aula 17/09
+
+- Retrieving instance metadata
+- AMI deployment models
+- Amazon VPC
+- Network address translation (NAT) gateway
+- Amazon route 53
   - 
  
 - Sandbox 
