@@ -96,3 +96,15 @@
  
 - Sandbox 
 - Servidor minecraft na EC2
+
+# Aula 24/09
+
+- 3 laboratorioses:
+- [Guided lab: Creating a Virtual Private Cloud](https://awsacademy.instructure.com/courses/129676/assignments/1485156?module_item_id=12389305)
+- [Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café](https://awsacademy.instructure.com/courses/129676/assignments/1485132?module_item_id=12389306)
+- [Module 7 Knowledge Check](https://awsacademy.instructure.com/courses/129676/assignments/1485196?module_item_id=12389310)
+
+
+# Aula 01/10
+
+-algo
