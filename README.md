@@ -112,4 +112,15 @@
 
 # Aula 01/10
 
--algo
+
+
+# 2 Bimestre
+
+## Aula 08/10/2025
+- RBAC x ABAC
+- Identidade Federada
+- Criptografia Simétrica x Assimétrica
+- Detecção de vulnerabilidade estática
+- Detecção de intrusão
+- [Guided lab: Creating a VPC Peering Connection](https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321)
+- 30/30 no lab
