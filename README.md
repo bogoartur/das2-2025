@@ -124,3 +124,14 @@
 - Detecção de intrusão
 - [Guided lab: Creating a VPC Peering Connection](https://awsacademy.instructure.com/courses/129676/assignments/1485154?module_item_id=12389321)
 - 30/30 no lab
+
+## Aula 15/10/2025
+
+
+- Monitoramento de performance, metricas (cpu, read/write, upload/download, nao da pra ver memoria), logs
+- tracing (rastreia todo o caminho de uma requisição atraves dos serviços)
+- elasticidade
+- escalabilidade horizontal
+- load balancers
+- [Guided lab: Creating a Highly Available Environment](https://awsacademy.instructure.com/courses/129676/assignments/1485152?module_item_id=12389382)
+ami-0ea2f9b8b959a8d12
