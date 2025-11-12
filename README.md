@@ -146,3 +146,13 @@ ami-0ea2f9b8b959a8d12
 
 - Module 12: Caching Content
 - [Module 12 Knowledge Check](https://awsacademy.instructure.com/courses/129676/assignments/1485174?module_item_id=12389441)
+## Aula 05/11/2025
+
+- Module 13: Building Decoupled Architectures
+- [Guided lab: Building Decoupled Applications by Using Amazon SQS](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
+- Lab dessa aula estava quebrado por descontinuidade de um recurso da AWS necessário
+
+## Aula 12/11/2025
+
+- Module 14: Building Serverless Architectures and Microservices
+- [Guided lab: Implementing a Serverless Architecture on AWS](https://awsacademy.instructure.com/courses/129676/modules/items/12389475)
