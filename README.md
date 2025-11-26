@@ -141,18 +141,31 @@ ami-0ea2f9b8b959a8d12
 
 - Module 11: Automating Your Architecture
 - [Guided lab: Automating Infrastructure with AWS CloudFormation](https://awsacademy.instructure.com/courses/129676/assignments/1485149?module_item_id=12389414)
+- Route 53: DNS da AWS
 
 ## Aula 29/10/2025
 
 - Module 12: Caching Content
 - [Module 12 Knowledge Check](https://awsacademy.instructure.com/courses/129676/assignments/1485174?module_item_id=12389441)
+- CDN
+- Distrubuicao de conteudo, imagens, videos, paginas web, entregues ao usuario conforme sua localizacao geografica
+- Cloudfront global edge: muitas edge locations para entregar conteudo com baixa latencia (especialmente streaming)
+
+  
 ## Aula 05/11/2025
 
 - Module 13: Building Decoupled Architectures
 - [Guided lab: Building Decoupled Applications by Using Amazon SQS](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
 - Lab dessa aula estava quebrado por descontinuidade de um recurso da AWS necessário
+- Point to point messaging
+- Loose coupling, componentes independentes, que em caso de falhas não derrubam o sistema completo.
+
+
 
 ## Aula 12/11/2025
 
 - Module 14: Building Serverless Architectures and Microservices
 - [Guided lab: Implementing a Serverless Architecture on AWS](https://awsacademy.instructure.com/courses/129676/modules/items/12389475)
+
+- AWS Serverless servies (Lambda, DynamoDB, etc.)
+- Sem necessidade de gerenciar um servidor completo para rodar funcoes
